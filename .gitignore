@@ -27,3 +27,11 @@ HELP.md
 
 ### VS Code ###
 .vscode/
+beta-api/src/main/resources/
+beta-api/src/test/
+beta-api/target/
+beta-dao/src/
+beta-impl/src/test/
+beta-impl/target/
+beta-web/src/test/
+beta-web/target/
