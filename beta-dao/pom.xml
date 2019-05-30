@@ -12,4 +12,21 @@
     <artifactId>beta-dao</artifactId>
 
 
+    <dependencies>
+        <dependency>
+            <groupId>com.lsl.beta</groupId>
+            <artifactId>beta-api</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.lsl.beta</groupId>
+            <artifactId>beta-impl</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.dubbo</groupId>
+            <artifactId>dubbo</artifactId>
+        </dependency>
+
+    </dependencies>
+
 </project>
